@@ -1,0 +1,1 @@
+OOP exercise 2: https://grzegorz-turek.github.io/oop-2/
